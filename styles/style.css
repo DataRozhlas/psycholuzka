@@ -1,1 +1,12 @@
-/* styly ve složce styles/ se zakompliují automaticky */
+#chart {
+    max-width: 100%;
+    margin: 1em auto;
+}
+
+.small {
+    max-width: 350px;
+    min-width: 300px;
+    height: 250px;
+    margin: 1em auto;
+    float: left;
+}
